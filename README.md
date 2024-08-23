@@ -1,3 +1,4 @@
+<img src="https://theecmconsultant.com/wp-content/uploads/2022/07/information-management-system-min.webp" height="auto" width="3000px">
 Description:
 This project implements a basic security system for managing student information. It includes the following features:
 
